@@ -1,3 +1,3 @@
 # DSResearch
 
-Project Page for useful information.
+Check out the [Wiki](https://github.com/ProfessorBrunner/DSResearch/wiki) or the [Project Page](http://professorbrunner.github.io/DSResearch/).
